@@ -1,0 +1,93 @@
+Year,Round,OfficialName,ShortName,Country,Flag,Location,DisplayName
+2022,1,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2022,Bahrain,🇧🇭,Sakhir,🇧🇭 Bahrain Grand Prix
+2022,2,Saudi Arabian Grand Prix,FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2022,Saudi Arabia,🇸🇦,Jeddah,🇸🇦 Saudi Arabian Grand Prix
+2022,3,Australian Grand Prix,FORMULA 1 HEINEKEN AUSTRALIAN GRAND PRIX 2022,Australia,🇦🇺,Melbourne,🇦🇺 Australian Grand Prix
+2022,4,Emilia Romagna Grand Prix,FORMULA 1 ROLEX GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2022,Italy,🇮🇹,Imola,🇮🇹 Emilia Romagna Grand Prix
+2022,5,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2022,United States,🇺🇸,Miami,🇺🇸 Miami Grand Prix
+2022,6,Spanish Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO DE ESPAÑA 2022,Spain,🇪🇸,Barcelona,🇪🇸 Spanish Grand Prix
+2022,7,Monaco Grand Prix,FORMULA 1 GRAND PRIX DE MONACO 2022,Monaco,🇲🇨,Monaco,🇲🇨 Monaco Grand Prix
+2022,8,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2022,Azerbaijan,🇦🇿,Baku,🇦🇿 Azerbaijan Grand Prix
+2022,9,Canadian Grand Prix,FORMULA 1 AWS GRAND PRIX DU CANADA 2022,Canada,🇨🇦,Montréal,🇨🇦 Canadian Grand Prix
+2022,10,British Grand Prix,FORMULA 1 LENOVO BRITISH GRAND PRIX 2022,Great Britain,🇬🇧,Silverstone,🇬🇧 British Grand Prix
+2022,11,Austrian Grand Prix,FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2022,Austria,🇦🇹,Spielberg,🇦🇹 Austrian Grand Prix
+2022,12,French Grand Prix,FORMULA 1 LENOVO GRAND PRIX DE FRANCE 2022,France,🇫🇷,Le Castellet,🇫🇷 French Grand Prix
+2022,13,Hungarian Grand Prix,FORMULA 1 ARAMCO MAGYAR NAGYDÍJ 2022,Hungary,🇭🇺,Budapest,🇭🇺 Hungarian Grand Prix
+2022,14,Belgian Grand Prix,FORMULA 1 ROLEX BELGIAN GRAND PRIX 2022,Belgium,🇧🇪,Spa-Francorchamps,🇧🇪 Belgian Grand Prix
+2022,15,Dutch Grand Prix,FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2022,Netherlands,🇳🇱,Zandvoort,🇳🇱 Dutch Grand Prix
+2022,16,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2022,Italy,🇮🇹,Monza,🇮🇹 Italian Grand Prix
+2022,17,Singapore Grand Prix,FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2022,Singapore,🇸🇬,Marina Bay,🇸🇬 Singapore Grand Prix
+2022,18,Japanese Grand Prix,FORMULA 1 HONDA JAPANESE GRAND PRIX 2022,Japan,🇯🇵,Suzuka,🇯🇵 Japanese Grand Prix
+2022,19,United States Grand Prix,FORMULA 1 ARAMCO UNITED STATES GRAND PRIX 2022,United States,🇺🇸,Austin,🇺🇸 United States Grand Prix
+2022,20,Mexico City Grand Prix,FORMULA 1 HEINEKEN GRAN PREMIO DE LA CIUDAD DE MÉXICO 2022,Mexico,🇲🇽,Mexico City,🇲🇽 Mexico City Grand Prix
+2022,21,São Paulo Grand Prix,FORMULA 1 HEINEKEN GRANDE PRÊMIO DE SÃO PAULO 2022,Brazil,🇧🇷,São Paulo,🇧🇷 São Paulo Grand Prix
+2022,22,Abu Dhabi Grand Prix,FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2022,Abu Dhabi,🇦🇪,Yas Island,🇦🇪 Abu Dhabi Grand Prix
+2023,1,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2023,Bahrain,🇧🇭,Sakhir,🇧🇭 Bahrain Grand Prix
+2023,2,Saudi Arabian Grand Prix,FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2023,Saudi Arabia,🇸🇦,Jeddah,🇸🇦 Saudi Arabian Grand Prix
+2023,3,Australian Grand Prix,FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2023,Australia,🇦🇺,Melbourne,🇦🇺 Australian Grand Prix
+2023,4,Azerbaijan Grand Prix,FORMULA 1 AZERBAIJAN GRAND PRIX 2023,Azerbaijan,🇦🇿,Baku,🇦🇿 Azerbaijan Grand Prix
+2023,5,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2023,United States,🇺🇸,Miami,🇺🇸 Miami Grand Prix
+2023,6,Monaco Grand Prix,FORMULA 1 GRAND PRIX DE MONACO 2023,Monaco,🇲🇨,Monaco,🇲🇨 Monaco Grand Prix
+2023,7,Spanish Grand Prix,FORMULA 1 AWS GRAN PREMIO DE ESPAÑA 2023,Spain,🇪🇸,Barcelona,🇪🇸 Spanish Grand Prix
+2023,8,Canadian Grand Prix,FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2023,Canada,🇨🇦,Montréal,🇨🇦 Canadian Grand Prix
+2023,9,Austrian Grand Prix,FORMULA 1 ROLEX GROSSER PREIS VON ÖSTERREICH 2023,Austria,🇦🇹,Spielberg,🇦🇹 Austrian Grand Prix
+2023,10,British Grand Prix,FORMULA 1 ARAMCO BRITISH GRAND PRIX 2023,Great Britain,🇬🇧,Silverstone,🇬🇧 British Grand Prix
+2023,11,Hungarian Grand Prix,FORMULA 1 QATAR AIRWAYS HUNGARIAN GRAND PRIX 2023,Hungary,🇭🇺,Budapest,🇭🇺 Hungarian Grand Prix
+2023,12,Belgian Grand Prix,FORMULA 1 MSC CRUISES BELGIAN GRAND PRIX 2023,Belgium,🇧🇪,Spa-Francorchamps,🇧🇪 Belgian Grand Prix
+2023,13,Dutch Grand Prix,FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2023,Netherlands,🇳🇱,Zandvoort,🇳🇱 Dutch Grand Prix
+2023,14,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2023 ,Italy,🇮🇹,Monza,🇮🇹 Italian Grand Prix
+2023,15,Singapore Grand Prix,FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2023 ,Singapore,🇸🇬,Marina Bay,🇸🇬 Singapore Grand Prix
+2023,16,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2023 ,Japan,🇯🇵,Suzuka,🇯🇵 Japanese Grand Prix
+2023,17,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2023,Qatar,🇶🇦,Lusail,🇶🇦 Qatar Grand Prix
+2023,18,United States Grand Prix,FORMULA 1 LENOVO UNITED STATES GRAND PRIX 2023,United States,🇺🇸,Austin,🇺🇸 United States Grand Prix
+2023,19,Mexico City Grand Prix,FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2023,Mexico,🇲🇽,Mexico City,🇲🇽 Mexico City Grand Prix
+2023,20,São Paulo Grand Prix,FORMULA 1 ROLEX GRANDE PRÊMIO DE SÃO PAULO 2023,Brazil,🇧🇷,São Paulo,🇧🇷 São Paulo Grand Prix
+2023,21,Las Vegas Grand Prix,FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2023,United States,🇺🇸,Las Vegas,🇺🇸 Las Vegas Grand Prix
+2023,22,Abu Dhabi Grand Prix,FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2023 ,Abu Dhabi,🇦🇪,Yas Island,🇦🇪 Abu Dhabi Grand Prix
+2024,1,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2024,Bahrain,🇧🇭,Sakhir,🇧🇭 Bahrain Grand Prix
+2024,2,Saudi Arabian Grand Prix,FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2024,Saudi Arabia,🇸🇦,Jeddah,🇸🇦 Saudi Arabian Grand Prix
+2024,3,Australian Grand Prix,FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2024,Australia,🇦🇺,Melbourne,🇦🇺 Australian Grand Prix
+2024,4,Japanese Grand Prix,FORMULA 1 MSC CRUISES JAPANESE GRAND PRIX 2024,Japan,🇯🇵,Suzuka,🇯🇵 Japanese Grand Prix
+2024,5,Chinese Grand Prix,FORMULA 1 LENOVO CHINESE GRAND PRIX 2024,China,🇨🇳,Shanghai,🇨🇳 Chinese Grand Prix
+2024,6,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2024,United States,🇺🇸,Miami,🇺🇸 Miami Grand Prix
+2024,7,Emilia Romagna Grand Prix,FORMULA 1 MSC CRUISES GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2024,Italy,🇮🇹,Imola,🇮🇹 Emilia Romagna Grand Prix
+2024,8,Monaco Grand Prix,FORMULA 1 GRAND PRIX DE MONACO 2024,Monaco,🇲🇨,Monaco,🇲🇨 Monaco Grand Prix
+2024,9,Canadian Grand Prix,FORMULA 1 AWS GRAND PRIX DU CANADA 2024,Canada,🇨🇦,Montréal,🇨🇦 Canadian Grand Prix
+2024,10,Spanish Grand Prix,FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024,Spain,🇪🇸,Barcelona,🇪🇸 Spanish Grand Prix
+2024,11,Austrian Grand Prix,FORMULA 1 QATAR AIRWAYS AUSTRIAN GRAND PRIX 2024,Austria,🇦🇹,Spielberg,🇦🇹 Austrian Grand Prix
+2024,12,British Grand Prix,FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2024,United Kingdom,🏁,Silverstone,🏁 British Grand Prix
+2024,13,Hungarian Grand Prix,FORMULA 1 HUNGARIAN GRAND PRIX 2024,Hungary,🇭🇺,Budapest,🇭🇺 Hungarian Grand Prix
+2024,14,Belgian Grand Prix,FORMULA 1 ROLEX BELGIAN GRAND PRIX 2024,Belgium,🇧🇪,Spa-Francorchamps,🇧🇪 Belgian Grand Prix
+2024,15,Dutch Grand Prix,FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2024,Netherlands,🇳🇱,Zandvoort,🇳🇱 Dutch Grand Prix
+2024,16,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2024,Italy,🇮🇹,Monza,🇮🇹 Italian Grand Prix
+2024,17,Azerbaijan Grand Prix,FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2024,Azerbaijan,🇦🇿,Baku,🇦🇿 Azerbaijan Grand Prix
+2024,18,Singapore Grand Prix,FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2024,Singapore,🇸🇬,Marina Bay,🇸🇬 Singapore Grand Prix
+2024,19,United States Grand Prix,FORMULA 1 PIRELLI UNITED STATES GRAND PRIX 2024,United States,🇺🇸,Austin,🇺🇸 United States Grand Prix
+2024,20,Mexico City Grand Prix,FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2024,Mexico,🇲🇽,Mexico City,🇲🇽 Mexico City Grand Prix
+2024,21,São Paulo Grand Prix,FORMULA 1 LENOVO GRANDE PRÊMIO DE SÃO PAULO 2024,Brazil,🇧🇷,São Paulo,🇧🇷 São Paulo Grand Prix
+2024,22,Las Vegas Grand Prix,FORMULA 1 HEINEKEN SILVER LAS VEGAS GRAND PRIX 2024,United States,🇺🇸,Las Vegas,🇺🇸 Las Vegas Grand Prix
+2024,23,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2024,Qatar,🇶🇦,Lusail,🇶🇦 Qatar Grand Prix
+2024,24,Abu Dhabi Grand Prix,FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2024,United Arab Emirates,🏁,Yas Island,🏁 Abu Dhabi Grand Prix
+2025,1,Australian Grand Prix,FORMULA 1 LOUIS VUITTON AUSTRALIAN GRAND PRIX 2025,Australia,🇦🇺,Melbourne,🇦🇺 Australian Grand Prix
+2025,2,Chinese Grand Prix,FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2025,China,🇨🇳,Shanghai,🇨🇳 Chinese Grand Prix
+2025,3,Japanese Grand Prix,FORMULA 1 LENOVO JAPANESE GRAND PRIX 2025 ,Japan,🇯🇵,Suzuka,🇯🇵 Japanese Grand Prix
+2025,4,Bahrain Grand Prix,FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2025,Bahrain,🇧🇭,Sakhir,🇧🇭 Bahrain Grand Prix
+2025,5,Saudi Arabian Grand Prix,FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2025,Saudi Arabia,🇸🇦,Jeddah,🇸🇦 Saudi Arabian Grand Prix
+2025,6,Miami Grand Prix,FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2025,United States,🇺🇸,Miami Gardens,🇺🇸 Miami Grand Prix
+2025,7,Emilia Romagna Grand Prix,FORMULA 1 AWS GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2025,Italy,🇮🇹,Imola,🇮🇹 Emilia Romagna Grand Prix
+2025,8,Monaco Grand Prix,FORMULA 1 TAG HEUER GRAND PRIX DE MONACO 2025,Monaco,🇲🇨,Monaco,🇲🇨 Monaco Grand Prix
+2025,9,Spanish Grand Prix,FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2025,Spain,🇪🇸,Barcelona,🇪🇸 Spanish Grand Prix
+2025,10,Canadian Grand Prix,FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2025,Canada,🇨🇦,Montréal,🇨🇦 Canadian Grand Prix
+2025,11,Austrian Grand Prix,FORMULA 1 MSC CRUISES AUSTRIAN GRAND PRIX 2025,Austria,🇦🇹,Spielberg,🇦🇹 Austrian Grand Prix
+2025,12,British Grand Prix,FORMULA 1 QATAR AIRWAYS BRITISH GRAND PRIX 2025,United Kingdom,🏁,Silverstone,🏁 British Grand Prix
+2025,13,Belgian Grand Prix,FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2025,Belgium,🇧🇪,Spa-Francorchamps,🇧🇪 Belgian Grand Prix
+2025,14,Hungarian Grand Prix,FORMULA 1 LENOVO HUNGARIAN GRAND PRIX 2025,Hungary,🇭🇺,Budapest,🇭🇺 Hungarian Grand Prix
+2025,15,Dutch Grand Prix,FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2025,Netherlands,🇳🇱,Zandvoort,🇳🇱 Dutch Grand Prix
+2025,16,Italian Grand Prix,FORMULA 1 PIRELLI GRAN PREMIO D’ITALIA 2025,Italy,🇮🇹,Monza,🇮🇹 Italian Grand Prix
+2025,17,Azerbaijan Grand Prix,FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2025,Azerbaijan,🇦🇿,Baku,🇦🇿 Azerbaijan Grand Prix
+2025,18,Singapore Grand Prix,FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2025,Singapore,🇸🇬,Marina Bay,🇸🇬 Singapore Grand Prix
+2025,19,United States Grand Prix,FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2025,United States,🇺🇸,Austin,🇺🇸 United States Grand Prix
+2025,20,Mexico City Grand Prix,FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2025,Mexico,🇲🇽,Mexico City,🇲🇽 Mexico City Grand Prix
+2025,21,São Paulo Grand Prix,FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAULO 2025,Brazil,🇧🇷,São Paulo,🇧🇷 São Paulo Grand Prix
+2025,22,Las Vegas Grand Prix,FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2025,United States,🇺🇸,Las Vegas,🇺🇸 Las Vegas Grand Prix
+2025,23,Qatar Grand Prix,FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2025,Qatar,🇶🇦,Lusail,🇶🇦 Qatar Grand Prix
+2025,24,Abu Dhabi Grand Prix,FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2025,United Arab Emirates,🏁,Yas Island,🏁 Abu Dhabi Grand Prix

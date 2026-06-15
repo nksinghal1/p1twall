@@ -1,0 +1,13 @@
+﻿venv/
+__pycache__/
+.streamlit/
+*.pyc
+pages/
+data/fastf1_http_cache.sqlite
+data/2022/
+data/2023/
+data/2024/
+data/2025/
+data/all_2024.csv
+data/british_gp_2024.csv
+
