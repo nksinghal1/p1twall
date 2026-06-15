@@ -134,23 +134,6 @@ def load_driver_info(): return pd.read_csv('data/driver_info.csv')
 def load_calendar(): return pd.read_csv('data/race_calendar.csv')
 @st.cache_data
 def load_grid(): return pd.read_csv('data/grid_positions.csv')
-@st.cache_data
-def load_headshots():
-    import fastf1
-    fastf1.Cache.enable_cache('data')
-    hs = {}
-    for year, race in [(2025,'Bahrain Grand Prix'),(2024,'Abu Dhabi Grand Prix'),
-                       (2023,'Abu Dhabi Grand Prix'),(2022,'Abu Dhabi Grand Prix')]:
-        try:
-            s = fastf1.get_session(year, race, 'R')
-            s.load(telemetry=False)
-            if 'HeadshotUrl' in s.results.columns:
-                for _, row in s.results.iterrows():
-                    url = row.get('HeadshotUrl','')
-                    if row['Abbreviation'] not in hs and pd.notna(url) and str(url).startswith('http'):
-                        hs[row['Abbreviation']] = url
-        except: pass
-    return hs
 
 race_bundle = load_race_model()
 r_model=race_bundle['model']; r_le_driver=race_bundle['le_driver']
@@ -162,7 +145,7 @@ race_df=load_race_data(); qual_df=load_qual_data()
 driver_info=load_driver_info(); calendar=load_calendar(); grid_pos=load_grid()
 race_stats=race_df.groupby(['Race','Year'])['LapTimeSeconds'].agg(['mean','std']).reset_index()
 qual_stats=qual_df.groupby(['Race','Year'])['LapTimeSeconds'].agg(['mean','std']).reset_index()
-with st.spinner("🏎️  Loading driver data..."): HEADSHOTS=load_headshots()
+HEADSHOTS={}
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 def driver_name(abbr):
