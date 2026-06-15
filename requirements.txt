@@ -3,5 +3,5 @@ plotly
 pandas
 xgboost
 scikit-learn
-fastf1
-numpy
+fastf1==3.3.9
+numpy==1.26.4
