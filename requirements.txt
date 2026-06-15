@@ -1,6 +1,6 @@
 streamlit
-pandas
 plotly
+pandas
 xgboost
 scikit-learn
 fastf1
